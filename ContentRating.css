@@ -1,0 +1,38 @@
+.content-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.content-card {
+  background: #f9f9f9;
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.rating-buttons {
+  margin-top: 10px;
+}
+
+button {
+  border: none;
+  padding: 8px 12px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.like-button {
+  background: #4caf50;
+  color: white;
+}
+
+.dislike-button {
+  background: #f44336;
+  color: white;
+}
