@@ -6,8 +6,7 @@ This is a learning-focused mini project developed as part of the IBM Full Stack 
 Currently, the project is not deployed as a live demo.
 
 ## Description
-A React-based mini project developed as part of the IBM Full Stack Software Developer Certificate.
-The application allows users to rate content using likes and dislikes.
+Content Rating App is a small React-based application that allows users to rate content using likes and dislikes. This project was built to understand core React concepts such as component structure, state handling, and user interaction.
 
 ## My Contributions
 
