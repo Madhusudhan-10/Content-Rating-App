@@ -1,14 +1,26 @@
-# Content-Rating-App
-A React mini-project for rating content items (likes/dislikes). Built as part of IBM Full Stack Developer Certificate.
-A simple React mini-project that allows users to like or dislike multiple content items.
-This project started as a lab exercise in the IBM Full Stack Software Developer Professional Certificate, and I upgraded it into a reusable and professional mini-project.
+# Content Rating App
 
-Features:
+## Description
+A React-based mini project developed as part of the IBM Full Stack Software Developer Certificate.
+The application allows users to rate content using likes and dislikes.
 
-✅ Rate multiple items individually (like/dislike).
+## Key Features
+- User interface built with React
+- Like and dislike functionality
+- State management for user interactions
+- Simple and clean UI design
 
-✅ Clean UI with modern styling.
+## What I Learned
+- Building components using React
+- Managing state in frontend applications
+- Handling user interactions effectively
+- Structuring frontend projects
 
-✅ Built with React Hooks (useState).
+## Tech Stack
+- JavaScript
+- React
+- HTML
+- CSS
 
-✅ Beginner-friendly and extendable.
+## Status
+Completed
