@@ -6,22 +6,28 @@ This is a learning-focused mini project developed as part of the IBM Full Stack 
 Currently, the project is not deployed as a live demo.
 
 ## Description
-Content Rating App is a small React-based application that allows users to rate content using likes and dislikes. This project was built to understand core React concepts such as component structure, state handling, and user interaction.
+Content Rating App is a small JavaScript-based frontend project that allows users to rate content using likes and dislikes. The project focuses on understanding core JavaScript concepts such as DOM manipulation, event handling, and user interaction logic.
 
 ## My Contributions
 
-- Built and worked with React functional components
-- Managed component state for handling likes and dislikes
-- Implemented user interaction logic using JavaScript
-- Styled the application using CSS
-- Understood how small React projects are structured
+- Implemented like and dislike functionality using JavaScript event listeners
+- Managed UI updates dynamically using DOM manipulation
+- Structured frontend logic for handling user interactions
+- Styled the application using CSS for a clean and simple UI
+- Gained understanding of how small frontend projects are organized
 
+## File Structure
 
-## Key Features
-- User interface built with React
-- Like and dislike functionality
-- State management for user interactions
-- Simple and clean UI design
+- ContentRating.js – Handles user interaction logic and DOM updates
+- ContentRating.css – Styles for the user interface
+- README.md – Project documentation and setup instructions
+
+## What This Project Demonstrates
+
+- Ability to write clean JavaScript for UI interactions
+- Understanding of event-driven programming
+- Structuring small frontend projects
+- Translating requirements into working features
 
 ## What I Learned
 - Building components using React
