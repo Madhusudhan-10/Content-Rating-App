@@ -30,14 +30,15 @@ Content Rating App is a small JavaScript-based frontend project that allows user
 - Translating requirements into working features
 
 ## What I Learned
-- Building components using React
-- Managing state in frontend applications
-- Handling user interactions effectively
-- Structuring frontend projects
+
+- Writing clean JavaScript for UI interactions
+- Understanding event-driven programming
+- Manipulating the DOM dynamically
+- Structuring small frontend projects
+- Translating requirements into working features
 
 ## Tech Stack
 - JavaScript
-- React
 - HTML
 - CSS
 
